@@ -1,4 +1,4 @@
-// add h1 with text to body
+// add p with text to body
 let p = document.createElement("p")
 let body = document.querySelector("body")
 let TextNode = document.createTextNode("semple text")
